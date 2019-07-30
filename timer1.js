@@ -12,3 +12,5 @@ args.forEach(e => {
     timer(e)
   } 
 }) 
+
+module.exports = timer;
